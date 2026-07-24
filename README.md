@@ -1,50 +1,33 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Header" />
-</p>
+# Hi there! I'm Himanshu Raj 👋
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Himanshu+Raj+👋;Class+12+Student+📚;Passionate+Developer+💻;Gamer+%26+Coder+🎮" alt="Typing SVG" />
-  </a>
-</h1>
+**Student | Developer | Gamer**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1tsRajOwO&label=Profile%20views&color=8a2be2&style=flat-square" alt="1tsRajOwO profile views" />
-</p>
+<br/>
 
-<br>
-
-### 👨‍💻 About Me & What I Do
-<div align="center">
-  <img align="right" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" />
-</div>
-
-- 🔭 I’m currently a **Class 12 student**.
+### 👨‍💻 About Me
+- 📚 I’m currently a **Class 12 student**.
 - 🐍 I’m actively learning and mastering **Python**.
-- 🚀 I’m currently building a **Discord rich app extension** (an awesome alternative to premid).
+- 🚀 I’m currently building a **Discord rich app extension** (an alternative to premid).
 - 🎮 In my free time, you'll find me **Gaming and Coding**.
 - 💬 Ask me about **Discord API, Python, or Games**.
 
-<br>
+<br/>
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,ts,discord,git,github,vscode&theme=dark" alt="Skill Icons" />
   </a>
 </p>
 
-<br>
+<br/>
 
-### 📊 GitHub Stats & Streaks
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1tsRajOwO&theme=tokyonight&hide_border=true&stroke=0000&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="1tsRajOwO's GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1tsRajOwO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1tsRajOwO&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
 </p>
 
-<br>
+<br/>
 
 ### 📫 Let's Connect!
 <p align="left">
