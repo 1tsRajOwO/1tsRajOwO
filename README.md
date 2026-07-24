@@ -9,7 +9,6 @@
 - 🐍 I’m actively learning and mastering **Python**.
 - 🚀 I’m currently building a **Discord rich app extension** (an alternative to premid).
 - 🎮 In my free time, you'll find me **Gaming and Coding**.
-- 💬 Ask me about **Discord API, Python, or Games**.
 
 <br/>
 
