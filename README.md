@@ -1,4 +1,4 @@
-# Hi there! I'm Himanshu Raj 👋
+# Hi there! I'm Raj 👋
 
 **Student | Developer | Gamer**
 
@@ -7,8 +7,8 @@
 ### 👨‍💻 About Me
 - 📚 I’m currently a **Class 12 student**.
 - 🐍 I’m actively learning and mastering **Python**.
-- 🚀 I’m currently building a **Discord rich app extension** (an alternative to premid).
-- 🎮 In my free time, you'll find me **Gaming and Coding**.
+- 🚀 I’m currently building a **Nothing**.
+- 🎮 In my free time, you'll find me **Gaming,Music,Coding or On Discord**.
 
 <br/>
 
