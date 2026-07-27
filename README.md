@@ -21,13 +21,6 @@
 
 <br/>
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1tsRajOwO&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-</p>
-
-<br/>
-
 ### 📫 Let's Connect!
 <p align="left">
   <a href="https://instagram.com/1tsraj" target="_blank">
