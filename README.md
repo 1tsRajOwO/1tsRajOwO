@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 📚 I’m currently a **Class 12 student**.
 - 🐍 I’m actively learning and mastering **Python**.
-- 🚀 I’m currently building a **Nothing**.
+- 🚀 I’m currently building a **Discord Bot For My Server**.
 - 🎮 In my free time, you'll find me **Gaming,Music,Coding or On Discord**.
 
 
