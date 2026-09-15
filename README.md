@@ -25,10 +25,10 @@ University Student
 
 <p align="left">
   <a href="https://github.com/1tsraj">
-    <img src="https://github-readme-stats.vercel.app/api?username=1tsraj&show_icons=true&theme=transparent&hide_border=true&title_color=5865F2&text_color=ffffff" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=1tsraj&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=5865F2&amp;text_color=ffffff" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/1tsraj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1tsraj&theme=transparent&hide_border=true&title_color=5865F2&text_color=ffffff" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1tsraj&amp;theme=transparent&amp;hide_border=true&amp;title_color=5865F2&amp;text_color=ffffff" alt="GitHub Streak" width="48%" />
   </a>
 </p>
 
