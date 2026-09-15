@@ -25,10 +25,10 @@ University Student
 
 <p align="left">
   <a href="https://github.com/1tsRajOwO">
-    <img src="https://github-readme-stats.vercel.app/api?username=1tsRajOwO&show_icons=true&theme=transparent&hide_border=true&title_color=5865F2&text_color=ffffff" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=1tsRajOwO&show_icons=true&theme=transparent&hide_border=true&title_color=5865F2&text_color=ffffff" alt="GitHub Stats" width="45%" />
   </a>
   <a href="https://github.com/1tsRajOwO">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1tsRajOwO&theme=transparent&hide_border=true&title_color=5865F2&text_color=ffffff" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1tsRajOwO&theme=transparent&hide_border=true&title_color=5865F2&text_color=ffffff" alt="GitHub Streak" width="45%" />
   </a>
 </p>
 
