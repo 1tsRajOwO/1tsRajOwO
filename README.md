@@ -1,26 +1,50 @@
+<div align="center">
+
 # Raj
-Student & Python Developer
+
+**Student — Class 12 · Python Developer · Discord Bot Builder**
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/1tsraj)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1tsraj)
+
+</div>
 
 ---
 
-### Profile
-- Completing Class 12 education with a focus on computer science.
-- Specializing in **Python** development and scripting.
-- Currently architecting and deploying a custom Discord application.
-- Additional interests include gaming and music.
+## About
 
-### Technical Proficiencies
+Class 12 student learning Python in depth, with a focus on backend logic and automation. Currently building a Discord bot for my own server, covering moderation, custom commands, and event handling.
+
+Outside of coding: gaming, music, and general time on Discord.
+
+---
+
+## Tech Stack
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord API" />
+  <img src="https://skillicons.dev/icons?i=python,discord,git,github,vscode,linux&theme=dark" alt="Tech Stack" />
 </p>
 
-### Contact
+---
+
+## GitHub Stats
+
 <p align="left">
-  <a href="https://discord.com/users/1tsraj" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-1tsraj-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://instagram.com/1tsraj" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@1tsraj-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=1tsraj&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tsraj&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
 </p>
+
+---
+
+## Current Project
+
+| Project | Description | Status |
+|---|---|---|
+| Discord Bot | Custom Python bot for server moderation and utility commands | In Progress |
+
+---
+
+## Contact
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/1tsraj)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1tsraj)
