@@ -1,5 +1,5 @@
-# Raj
-University Student | Computer Science
+# HIMANSHU RAJ
+University Student
 
 ---
 
@@ -17,7 +17,7 @@ University Student | Computer Science
 
 > **Current Status:** No active public projects right now. 
 > 
-> My current focus is strictly on university academics, completing Harvard's CS50, and writing private scripts to solidify my understanding of Python and core computer science fundamentals.
+> My current focus is strictly on university academics.
 
 ---
 
