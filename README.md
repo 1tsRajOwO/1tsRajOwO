@@ -27,7 +27,7 @@ University Student
 
 > <img src="https://img.shields.io/badge/Status-Building_Privately-2EA043?style=flat-square" alt="Status" />
 > 
-> No active public projects right now. My current focus is strictly on university academics, completing Harvard's CS50, and writing private scripts to solidify my understanding of core computer science fundamentals.
+> No active public projects right now. My current focus is strictly on university academics.
 
 ---
 
