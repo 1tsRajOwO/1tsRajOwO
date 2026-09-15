@@ -24,15 +24,15 @@ University Student
 ### GitHub Activity
 
 <p align="left">
-  <a href="https://github.com/1tsraj">
-    <img src="https://github-readme-stats.vercel.app/api?username=1tsrajowo&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=5865F2&amp;text_color=ffffff" alt="GitHub Stats" width="48%" />
+  <a href="https://github.com/1tsRajOwO">
+    <img src="https://github-readme-stats.vercel.app/api?username=1tsRajOwO&show_icons=true&theme=transparent&hide_border=true&title_color=5865F2&text_color=ffffff" alt="GitHub Stats" width="48%" />
   </a>
-  <a href="https://github.com/1tsraj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1tsraj&amp;theme=transparent&amp;hide_border=true&amp;title_color=5865F2&amp;text_color=ffffff" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/1tsRajOwO">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1tsRajOwO&theme=transparent&hide_border=true&title_color=5865F2&text_color=ffffff" alt="GitHub Streak" width="48%" />
   </a>
 </p>
 
 ---
 
 ### Connect
-[GitHub](https://github.com/1tsraj) • [Discord](https://discord.com/users/1tsraj) • [Instagram](https://instagram.com/1tsraj)
+[GitHub](https://github.com/1tsRajOwO) • [Discord](https://discord.com/users/1tsraj) • [Instagram](https://instagram.com/1tsraj)
