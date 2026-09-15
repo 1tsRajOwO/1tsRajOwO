@@ -1,39 +1,26 @@
-# Hi there! I'm Raj 👋
+# Raj
+Student & Python Developer
 
+---
 
-**Student | Developer | Gamer**
+### Profile
+- Completing Class 12 education with a focus on computer science.
+- Specializing in **Python** development and scripting.
+- Currently architecting and deploying a custom Discord application.
+- Additional interests include gaming and music.
 
-
-<br/>
-
-
-### 👨‍💻 About Me
-- 📚 I’m currently a **Class 12 student**.
-- 🐍 I’m actively learning and mastering **Python**.
-- 🚀 I’m currently building a **Discord Bot For My Server**.
-- 🎮 In my free time, you'll find me **Gaming,Music,Coding or On Discord**.
-
-
-<br/>
-
-
-### 🛠️ Tech Stack
+### Technical Proficiencies
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,discord&theme=dark" alt="Skill Icons" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord API" />
 </p>
 
-
-<br/>
-
-
-### 📫 Let's Connect!
+### Contact
 <p align="left">
-  <a href="https://instagram.com/1tsraj" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="https://discord.com/users/1tsraj" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-1tsraj-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://instagram.com/1tsraj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@1tsraj-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
