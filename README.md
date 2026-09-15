@@ -25,7 +25,7 @@ University Student
 
 ### Projects & Repositories
 
-> <img src="https://img.shields.io/badge/Status-Building_Privately-2EA043?style=flat-square" alt="Status" />
+> <img src="https://img.shields.io/badge/Status-Building_Nothing-2EA043?style=flat-square" alt="Status" />
 > 
 > No active public projects right now. My current focus is strictly on university academics.
 
